@@ -8,5 +8,5 @@ Here are provided presentations, talks or posters related to the KNIME metanodes
 
 ### Posters
 * [Proteomics Forum 2019](https://www.eupa2019.org/)
-    * Workflow for the processing of bottom-up label-free proteomic experiments, poster
-    * Application container and KNIME metanodes for reproducible processing of omics data, poster
+    * Workflow for the processing of bottom-up label-free proteomic experiments, [poster](files/EUPA2019_KNIME_workflow.pdf)
+    * Application container and KNIME metanodes for reproducible processing of omics data, [poster](files/EUPA2019_KNIME_container_metanodes.pdf)
