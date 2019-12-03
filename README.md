@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Presentations
 
-You can use the [editor on GitHub](https://github.com/OmicsWorkflows/Presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are provided presentations, talks or posters related to the KNIME metanodes or workflows we have built.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Talks
+* [Informal proteomics meeting](http://www.czproteo.cz/NPS2019/index.php), Olomouc 2019, [presentation](files/Potesil_KNIME_Olomouc.pdf)
+* Workshop: [Processing of proteomics data in KNIME](https://www.ceitec.eu/processing-of-proteomics-data-in-knime/a3780?fbclid=IwAR0m_guBRRpRrr_aHguhbPnijp_JFBPKgrIqSl-YEJ8dIfI89epJoDKsv4g), Brno 2019, presentation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OmicsWorkflows/Presentations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Posters
+* [Proteomics Forum 2019](https://www.eupa2019.org/)
+    * Workflow for the processing of bottom-up label-free proteomic experiments, [poster](files/EUPA2019_KNIME_workflow.pdf)
+    * Application container and KNIME metanodes for reproducible processing of omics data, [poster](files/EUPA2019_KNIME_container_metanodes.pdf)
